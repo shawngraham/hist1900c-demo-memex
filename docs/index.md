@@ -1,7 +1,9 @@
 
+# J. Doe's Personal Memex
+
 ## Map of Content
 
-### Sources
+## Sources
 + [[@bushvannevarWeMayThink1945]]
 + [[@grahamFleshingOutBones2018]]
 + [[@rubergLivestreamingBedroomPerforming2021]]
@@ -9,22 +11,21 @@
 + [[@peacockWestgateOxfordPop2018]]
 
 
-### Thoughts
+## Thoughts
 
-'Gender'
-	- [[what impact does this kind of gendered writing have on imagined futures?]]
-	- [[who is the audience]]
-	- [[Do instagram photos re bonetrade demonstrate gendered background spaces?]]
+### 'Gender'
+- [[what impact does this kind of gendered writing have on imagined futures?]]
+- [[who is the audience]]
+- [[Do instagram photos re bonetrade demonstrate gendered background spaces?]]
 
-'Ethics'
-	- [[machine vision ethics]]
+### 'Ethics'
+- [[machine vision ethics]]
 
-'Process of Doing Research'
-	- [[growing mountain of research]]
-	- [[more research fewer insights]]
+### 'Process of Doing Research'
+- [[growing mountain of research]]
+- [[more research fewer insights]]
 
-
-## ToDo
+### ToDo
 
 (I tagged certain notes with #todo then did a search for that tag; I copied the results as markdown links and pasted below.)
 
