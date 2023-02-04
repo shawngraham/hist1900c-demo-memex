@@ -14,9 +14,9 @@
 ## Thoughts
 
 ### 'Gender'
-- [[what impact does this kind of gendered writing have on imagined futures?]]
+- [[what impact does this kind of gendered writing have on imagined futures]]
 - [[who is the audience]]
-- [[Do instagram photos re bonetrade demonstrate gendered background spaces?]]
+- [[Do instagram photos re bonetrade demonstrate gendered background spaces]]
 
 ### 'Ethics'
 - [[machine vision ethics]]
@@ -34,6 +34,8 @@
 - [[extracted notes from @rubergLivestreamingBedroomPerforming2021-zotero]]
 - [[extracted public annotations from @bushvannevarWeMayThink1945]]
 - [[more research fewer insights]]
+
+*Thing I found out* - if I put a ? in a note name (and probably any other special character) github actions breaks the link to the note.
 
 
 

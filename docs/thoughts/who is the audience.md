@@ -12,7 +12,7 @@ projects::[[]]
 
 Uses 'man' throughout, sometimes as an actual actor, 'What will Man do next?'
 
-idea: [[what impact does this kind of gendered writing have on imagined futures?]]
+idea: [[what impact does this kind of gendered writing have on imagined futures]]
 
 
 ---

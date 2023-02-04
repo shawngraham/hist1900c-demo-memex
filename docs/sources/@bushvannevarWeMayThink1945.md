@@ -28,7 +28,7 @@ The wikipedia article about this article is also [very handy](https://en.wikiped
 
 [[more research fewer insights]]
 
-[[what impact does this kind of gendered writing have on imagined futures?]]
+[[what impact does this kind of gendered writing have on imagined futures]]
 
 [[who is the audience]]
 

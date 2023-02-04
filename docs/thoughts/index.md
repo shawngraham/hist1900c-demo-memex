@@ -10,6 +10,6 @@ I'll put my atomic notes and my idea notes in this folder. If I tag them with `#
 
 - [[machine vision ethics]]
 - [[more research fewer insights]]
-- [[what impact does this kind of gendered writing have on imagined futures?]]
-- [[Do instagram photos re bonetrade demonstrate gendered background spaces?]]
+- [[what impact does this kind of gendered writing have on imagined futures]]
+- [[Do instagram photos re bonetrade demonstrate gendered background spaces]]
 

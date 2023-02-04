@@ -18,6 +18,6 @@ He notes that there is a 'growing mountain of research'; ultimately, one of the 
 
 ### Related Links
 
-[[what impact does this kind of gendered writing have on imagined futures?]]
+[[what impact does this kind of gendered writing have on imagined futures]]
 
 [[more research fewer insights]]

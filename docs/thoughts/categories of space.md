@@ -20,4 +20,4 @@ projects::[[]]
 
 ### Related Links
 
-[[Do instagram photos re bonetrade demonstrate gendered background spaces?]]
+[[Do instagram photos re bonetrade demonstrate gendered background spaces]]
