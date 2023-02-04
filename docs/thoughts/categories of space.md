@@ -4,7 +4,7 @@ date: 2023-02-04
 type: literature
 project:
 ---
-tags:: 
+tags:: #atomic
 projects::[[]]
 
 

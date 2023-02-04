@@ -24,7 +24,7 @@ The wikipedia article about this article is also [very handy](https://en.wikiped
 
 ### Links
 
-[[public annotations from @bushvannevarWeMayThink1945]]
+[[extracted public annotations from @bushvannevarWeMayThink1945]]
 
 [[more research fewer insights]]
 

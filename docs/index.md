@@ -32,6 +32,7 @@
 - [[@grahamFleshingOutBones2018]]
 - [[@hamilakisArchaeologyAssemblage2017]]
 - [[extracted notes from @rubergLivestreamingBedroomPerforming2021-zotero]]
+- [[extracted public annotations from @bushvannevarWeMayThink1945]]
 - [[more research fewer insights]]
 
 
