@@ -1,11 +1,38 @@
-# Obsidian Notes
 
-Publish your public notes with MkDocs
+## Map of Content
 
-## Hello World!
+### Sources
+[[@bushvannevarWeMayThink1945]]
+[[@grahamFleshingOutBones2018]]
+[[@rubergLivestreamingBedroomPerforming2021]]
+[[@hamilakisArchaeologyAssemblage2017]]
+[[@peacockWestgateOxfordPop2018]]
 
-The `index.md` in the `/docs` folder is the homepage you see here.
 
-The folders in `/docs` appear as the main sections on the navigation bar.
+### Thoughts
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+'Gender'
+	[[what impact does this kind of gendered writing have on imagined futures?]]
+	[[who is the audience]]
+	[[Do instagram photos re bonetrade demonstrate gendered background spaces?]]
+
+'Ethics'
+	[[machine vision ethics]]
+
+'Process of Doing Research'
+	[[growing mountain of research]]
+	[[more research fewer insights]]
+
+
+## ToDo
+
+(I tagged certain notes with #todo then did a search for that tag; I copied the results as markdown links and pasted below.)
+
+[[@grahamFleshingOutBones2018]]
+[[@hamilakisArchaeologyAssemblage2017]]
+[[extracted notes from @rubergLivestreamingBedroomPerforming2021-zotero]]
+[[more research fewer insights]]
+
+
+
+
